@@ -1,0 +1,12 @@
+site_name: BeginLearning
+site_description: Testing this out
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
+
+theme:
+  name: material
+  font: false
